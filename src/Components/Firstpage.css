@@ -1,0 +1,12 @@
+.Bg {
+    color: #53565a;
+	font-family: "Fira Sans";
+	box-sizing: border-box;
+	box-sizing: border-box;
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	background: rgb(17, 101, 180);
+}
